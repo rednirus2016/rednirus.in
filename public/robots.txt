@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:
+Disallow: /admin/
+Disallow: /ajax/
+Disallow: /assets/
+Disallow: /css/
+Disallow: /js/
+
+Sitemap: https://www.rednirus.in/sitemap.xml
